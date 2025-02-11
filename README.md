@@ -5,3 +5,5 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jun-Araki&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,python,django,typescript,javascript,jquery,react,next,nodejs,html,css,npm,yarn,mysql,postgresql,dynamodb,redis,github,githubactions,vscode,docker,aws&theme=light)](https://skillicons.dev)

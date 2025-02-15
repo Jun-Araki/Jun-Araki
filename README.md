@@ -6,4 +6,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jun-Araki&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
   
-[![My Skills](https://skillicons.dev/icons?i=ruby,python,django,typescript,react,next,mysql,postgresql,dynamodb,github,githubactions,docker,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,python,django,flask,typescript,react,next,mysql,postgresql,dynamodb,github,githubactions,docker,aws&theme=light)](https://skillicons.dev)

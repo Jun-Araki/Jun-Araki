@@ -5,5 +5,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Jun-Araki&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-  
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,python,django,flask,typescript,react,next,mysql,postgresql,dynamodb,github,githubactions,docker,aws&theme=light)](https://skillicons.dev)
+### Strengths
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,javascript,mysql,postgresql,github,githubactions,docker,aws&theme=light)](https://skillicons.dev)
+### Experienced In
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,dynamodb&theme=light)](https://skillicons.dev)
+### Learning
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask&theme=light)](https://skillicons.dev)

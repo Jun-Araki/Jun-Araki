@@ -8,6 +8,6 @@
 ### Strengths
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,javascript,mysql,postgresql,github,githubactions,docker&theme=light)](https://skillicons.dev)
 ### Experienced In
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,dynamodb,aws&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,python,django,flask,dynamodb,aws&theme=light)](https://skillicons.dev)
 ### Learning
-[![My Skills](https://skillicons.dev/icons?i=python,django,flask&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go&theme=light)](https://skillicons.dev)

@@ -1,9 +1,9 @@
 # Jun Araki
 
-Full-stack Software Engineer · 🇯🇵 Tokyo → 🇮🇳 Bangalore → 🇩🇪 Berlin (next)
+Full-stack Software Engineer · 🇯🇵 Tokyo → 🇮🇳 Bangalore
 Backend-leaning generalist. Currently building an EOR platform in India for cross-border hiring.
 
-🌏 EN / JA · 🛠 9+ years in software (3+ in web, plus public-sector IT & embedded) · 🎯 Aiming for a tech career in 🇩🇪 Berlin — also open to 🇵🇹 Lisbon / 🇪🇸 Barcelona
+🌏 EN / JA · 🛠 9+ years in software (3+ in web, plus public-sector IT & embedded) · 🎯 Open to global engineering opportunities
 
 ---
 

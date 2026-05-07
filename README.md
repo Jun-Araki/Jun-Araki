@@ -27,7 +27,7 @@ Backend-leaning generalist. Currently building an EOR platform in India for cros
 |---|---|---|---|
 | 2026– | **[INDIGITAL](https://indigital.co.jp/)** (🇮🇳 Bangalore) | Full-stack / Project Lead | PHP / Laravel · Go · React · TypeScript · AWS |
 | 2025–26 | **[Pixie Dust Technologies](https://pixiedusttech.com/)** (🇯🇵 Tokyo, freelance) | Full-stack / Project Lead | Ruby on Rails · Go · React · TypeScript · AWS |
-| 2023–25 | **[Cuon](https://cuon.io/)** (🇯🇵 Tokyo) | Full-stack / Project Lead | Ruby on Rails · React · TypeScript · AWS |
+| 2023–25 | **[Cuon](https://www.cuon.co.jp/)** (🇯🇵 Tokyo) | Full-stack / Project Lead | Ruby on Rails · React · TypeScript · AWS |
 | 2020–23 | **[Isesaki City Hall](https://www.city.isesaki.lg.jp/)** (🇯🇵 Gunma) | InfoSec Manager | Salesforce · VBA · Windows Server |
 | 2017–20 | **[Fujitsu Frontech](https://www.fujitsu.com/jp/group/frontech/)** (🇯🇵 Tokyo) | System Integrator | C · Linux · Windows Server |
 
